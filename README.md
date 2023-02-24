@@ -1,9 +1,6 @@
 # Search Form in Django
 
-In this repository you will learn how to create a blog app. The blog app
-consists of an application that enables users to create posts on the websites
-so that non-users can also see them. The posts can be created or deleted by 
-the users. There is also a part to leave comments below the posts. The people 
-who sign up to the website are able to write commments. The blog app is a
-necessary part of nearly all websites and learning it can help you create the
-blog of your choice for your website.
+In this repository you will learn how to create a search form so that you can 
+search through the database or list from your it. As result, the search will 
+find the nearrest result to your searched item.Which means that even if you enter
+a letter, there are still chances that you find some results coming up from your database. 
